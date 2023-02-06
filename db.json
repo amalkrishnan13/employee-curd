@@ -1,0 +1,61 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Alex",
+      "lastName": "carry",
+      "email": "alex.carry@gmail.com",
+      "mobile": "9763861592",
+      "salary": "40,0000"
+    },
+    {
+      "id": 5,
+      "firstName": "Amal",
+      "lastName": "krishnan",
+      "email": "amal123@gmail.com",
+      "mobile": "7561097622",
+      "salary": "45,000"
+    },
+    {
+      "id": 6,
+      "firstName": "sooraj",
+      "lastName": "suresh",
+      "email": "sooraj123@gmail.com",
+      "mobile": "7561097622",
+      "salary": "67,0000"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "sam sun",
+      "email": "sam12@gmail.com",
+      "password": "1234",
+      "mobile": 6578987654,
+      "id": 1
+    },
+    {
+      "fullname": "Akshay mohan",
+      "email": "akshay23@gmail.com",
+      "password": "1234",
+      "mobile": 7534872654,
+      "id": 2
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 3
+    },
+    {
+      "fullname": "chriss moris",
+      "email": "chris@gmail.com",
+      "password": "1234",
+      "mobile": 7654312345,
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
